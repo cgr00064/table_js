@@ -15,7 +15,6 @@ function makeTable(){
             td.appendChild(text);
             tr.appendChild(td);
         }
-
         table.appendChild(tr);
     }
 }
